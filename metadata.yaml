@@ -1,0 +1,32 @@
+_repo: La-Cite-Antique-Etude-sur-Le-Culte-Le-Droit-Les-Institutions-de-la-Grece-et-de-Rome_8074
+creator:
+  author:
+    agent_name: Fustel de Coulanges
+    aliases:
+    - Coulanges, Numa Denis de
+    - Coulanges, Fustel de
+    - Fustel de Coulanges, Numa Denys
+    birthdate: 1830
+    deathdate: 1889
+    gutenberg_agent_id: '2627'
+    url: http://www.gutenberg.org/2009/agents/2627
+    wikipedia: http://en.wikipedia.org/wiki/Numa_Denis_Fustel_de_Coulanges
+description: ''
+gutenberg_bookshelf: FR Peuples et Sociétés
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8074'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cities and towns, Ancient'
+- !lcc 'JC'
+- !lcsh 'Civilization, Greco-Roman'
+- !lcsh 'Greece -- Politics and government'
+- !lcsh 'Rome -- Politics and government'
+title: "La Cité Antique\r\nÉtude sur Le Culte, Le Droit, Les Institutions de la Grèce\
+  \ et de Rome"
+url: http://www.gutenberg.org/ebooks/8074
